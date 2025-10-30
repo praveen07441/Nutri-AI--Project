@@ -12,6 +12,9 @@
 
 
 
+
+
+
 🎯 Objectives
 
 🍏 Help users select healthy meals based on personal goals.
@@ -19,6 +22,10 @@
 🍊 Provide AI-generated nutrition advice and daily tips.
 🍋 Visualize health progress with clean charts and summaries.
 🍉 Encourage consistency and awareness in eating habits.
+
+
+
+
 
 
 
@@ -35,6 +42,10 @@
 
 
 
+
+
+
+
 💬 Feedback Summary
 
 👍 Pros:
@@ -46,6 +57,9 @@
 🥯 Chatbot sometimes repeats similar responses.
 🍔 Some food items missing from the database.
 🥤 Lacks integration with fitness or wearable devices.
+
+
+
 
 
 
