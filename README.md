@@ -15,7 +15,7 @@
 
 
 
-🎯 Objectives
+##🎯 Objectives 
 
 🍏 Help users select healthy meals based on personal goals.
 🍎 Track calories, protein, carbs, and fat easily.
@@ -29,7 +29,7 @@
 
 
 
-🚀 Features
+##🚀 Features
 
 🍌 User Profile: Create a personalized health profile (age, weight, goals).
 🍇 AI Meal Suggestions: Get daily AI-generated meal ideas.
@@ -46,7 +46,7 @@
 
 
 
-💬 Feedback Summary
+##💬 Feedback Summary
 
 👍 Pros:
 🥗 Helpful AI recommendations for balanced meals.
@@ -65,7 +65,7 @@
 
 
 
-🧩 Improvements & Future Work
+##🧩 Improvements & Future Work
 
 🍋 Expand the food database with more local dishes and images.
 🍎 Add connection to smartwatches and fitness apps.
